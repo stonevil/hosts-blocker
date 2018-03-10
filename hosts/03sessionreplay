@@ -1,0 +1,11 @@
+# session replay networks
+0.0.0.0	clicktale.net
+0.0.0.0	*.clicktale.net
+0.0.0.0	hotjar.com
+0.0.0.0	decibelinsight.net
+0.0.0.0	fullstory.com
+0.0.0.0	inspectlet.com
+0.0.0.0	mouseflow.com
+0.0.0.0	quantummetric.com
+0.0.0.0	sessioncam.com
+0.0.0.0	userreplay.net
